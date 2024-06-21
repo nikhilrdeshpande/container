@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maersk Container Ship
+* source:	https://sketchfab.com/3d-models/maersk-container-ship-8c39021a0dc44ca6b6ca611cc967e540
+* author:	RM02 (https://sketchfab.com/RM02)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maersk Container Ship" (https://sketchfab.com/3d-models/maersk-container-ship-8c39021a0dc44ca6b6ca611cc967e540) by RM02 (https://sketchfab.com/RM02) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
